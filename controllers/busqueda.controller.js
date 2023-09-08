@@ -10,7 +10,3 @@ buscador.addEventListener("input", evento => {
     }
   });
 });
-
-
-
-

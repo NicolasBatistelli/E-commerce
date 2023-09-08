@@ -36,10 +36,3 @@ formulario.addEventListener("submit", (eventoSubmit) => {
     )
   }).catch((err) => console.log(err));
 });
-
-
-
-
-
-
-

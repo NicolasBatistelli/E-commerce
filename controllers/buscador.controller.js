@@ -78,5 +78,3 @@ buscador.addEventListener("keypress", evento => {
       });
     }
 });
-  
-  

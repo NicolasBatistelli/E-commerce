@@ -24,6 +24,3 @@ clientServices.listaProductos().then(data => {
     }
   });
 })
-
-
-
